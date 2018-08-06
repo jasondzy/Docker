@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/hyperkube:v1.10.5
+FROM gcr.io/etcd-amd64:3.1.12
